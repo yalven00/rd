@@ -8,7 +8,7 @@ gem "sprockets-rails"
 #gem "sqlite3", ">= 1.4"
 #gem "sqlite3", ">= 1.4"
 gem "mysql2"
-gem 'bootstrap', '~> 5.1'
+gem 'bootstrap', '~> 5.3'
 gem 'jquery-rails', '~> 4.4'
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
